@@ -1,0 +1,4 @@
+# Mis Experiencias
+- Es muy interesante conocer la potencialidad de github y las grandes ventajas que trae consigo hacer parte de su comunidad. Al principio es un poco difícil de asimilar por todas las opciones que cuenta, pero creo que con el tiempo su uso se facilita sustancialmente. Una de las cosas que me gusta es su sistema controlador de versiones que permite no solo manejar las diferentes versiones como un proyecto valga la redundancia, sino que permite trabajarlas con otras personas de todas partes del mundo.
+
+- En cuanto a dificultades, me pareció un poco difícil el manejo de los tipos de archivo en la plataforma, no solo su manejo, sino que subirlos y editarlos, pero creo que esto fue más por las múltiples herramientas con las que cuenta, que como ya dije antes al principio se dificultan, pero con el tiempo es algo que ira facilitando.
